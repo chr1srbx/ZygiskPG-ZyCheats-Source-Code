@@ -15,4 +15,4 @@ Here are the features this mod has:  <a href="https://github.com/chr1srbx/Zygisk
 
 # DISCLAIMER
 
-You are not allowd to sell it, you are allowed hoewer to modify and play with it as you wish. https://github.com/chr1srbx/ZygiskPG-ZyCheats-Source-Code/blob/main/license.md
+You are not allowed to sell it, you are allowed hoewer to modify and play with it as you wish. https://github.com/chr1srbx/ZygiskPG-ZyCheats-Source-Code/blob/main/license.md
