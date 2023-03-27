@@ -9,4 +9,4 @@ This decision will allow everyone to understand how ZygiskPG works, Its also hel
 
 We removed our authentication system for obvious reasons.
 
-Here are the features this mod has:  <a href="https://raw.githubusercontent.com/chr1srbx/ZygiskPG-Source-Code/main/Features.txt" target="_blank">Click here.</a>
+Here are the features this mod has:  <a href="https://github.com/chr1srbx/ZygiskPG-ZyCheats-Source-Code/blob/main/Features.txt" target="_blank">Click here.</a>
