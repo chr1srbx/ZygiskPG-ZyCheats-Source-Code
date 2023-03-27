@@ -1,0 +1,79 @@
+Pre Enabled
+Antiban
+Bypass Swear Filter
+Bypass Password For Private Rooms 
+
+Player :
+Godmode
+Speed
+Fly
+Jump Height
+
+Account:
+Unlock All Weapons
+Unlock All Wear
+Unlock All Gadgets
+Level 65
+Collectibles For Modules
+Free Lottery
+Free Craftables
+Currency Mods
+(Coins, Gems, ClanSilver, LootboxPoints etc.)
+
+Game Mods:
+Kill all
+Crash All
+Force Coin Drop
+Spam Chat
+Glitch Everyone
+Kill Team-mates
+Infinite Score
+
+Gadget Mods:
+Drone Godmode
+Turret Godmode
+Disable Gadget Cooldown
+Infinite Gadget Duration
+
+Pet Mods:
+Godmode
+One Shot Kill
+Speed
+Respawn Time
+Pet Noclip
+
+Weapon Mods:
+Force Critical Hits
+Unlimited Ammo
+No Reload Length
+Silent Aim
+No Recoil and Spread
+Force Scope
+Force 3 Cat Spam
+Infinite Knife/Flamethrower Range
+
+Bullet Mods:
+Force Explosive Bullets
+Force Railgun Bullets
+Reflective Ray Count
+Force Polymorph bullets (makes the enemy a godmoded sheep)
+Force Harpoon Bullets
+Force Flamethrower Bullets
+
+Effect Mods:
+Force Charm
+Force Electric Shock
+Force SpeedUp Effect
+Force SlowDown Effect
+Force Head Magnifyier Effect
+Force Jump Disabler
+Force Gadget Disabler
+
+Visual:
+Chams
+Marker
+Quick Scope
+
+Experimental:
+Uncap FPS
+LoadScene
