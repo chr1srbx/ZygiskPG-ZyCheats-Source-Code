@@ -12,3 +12,7 @@ We removed our authentication system for obvious reasons.
 Its based on version 23.1.3, We aren't going to update it anymore.
 
 Here are the features this mod has:  <a href="https://github.com/chr1srbx/ZygiskPG-ZyCheats-Source-Code/blob/main/Features.txt" target="_blank">Click here.</a>
+
+# DISCLAIMER
+
+You are not allowd to sell it, you are allowed hoewer to modify and play with it as you wish. https://github.com/chr1srbx/ZygiskPG-ZyCheats-Source-Code/blob/main/license.md
