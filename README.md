@@ -1,16 +1,12 @@
 # ZygiskPG
-Mod Menu for Pixel Gun 3D 23.1.0
+ZyCheats or ZygiskPG, designed specifically for the popular mobile game Pixel Gun 3D. 
 
-This is NOT a good project 
-You WILL encounter many problems
+The mod was developed by Chr1s, Fedesito, and OhMyFajjet and was previously a closed-source and paid product. 
+However, due to legal issues, the mod has been open-sourced and made available for public contribution, this source is now only for educational purposes, we don't take fault for what people do with this.  
+The mod was developed entirely in C++, utilizing zygisk, Its used to modify the game Pixel Gun 3D, to give the user advantages.  
 
+This decision will allow everyone to understand how ZygiskPG works, Its also helpful for the developers to patch this module.  
 
-# Build and Installation
-Android Studio is required: https://developer.android.com/studio  <br />
-Use Android Studio to run the gradle task :module:assembleRelease to compile, the zip package will be generated in the out folder
+We removed our authentication system for obvious reasons.
 
-# Credits
-Perfare - https://github.com/Perfare/Zygisk-Il2CppDumper <br />
-springmusk026 - https://github.com/springmusk026/ImGui-Unity-With-Layout <br />
-jmpews - https://github.com/jmpews/Dobby <br />
-Polarmods - https://github.com/Polarmods/PolarImGui <br />
+Here are the features this mod has:  <a href="https://raw.githubusercontent.com/chr1srbx/ZygiskPG-Source-Code/main/Features.txt" target="_blank">Click here.</a>
